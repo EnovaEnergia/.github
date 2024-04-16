@@ -1,2 +1,1 @@
-<img align="left" src="https://gist.github.com/marcosdrigus/4c236a1454de3fc5aa0574f1ca5fc4e2.js"/>
-## Hi there 👋
+<img align="left" src="https://gist.github.com/marcosdrigus/4c236a1454de3fc5aa0574f1ca5fc4e2/raw/share.png"/>
