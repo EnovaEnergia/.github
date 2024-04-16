@@ -1,1 +1,1 @@
-<img align="left" src="https://gist.github.com/marcosdrigus/4c236a1454de3fc5aa0574f1ca5fc4e2/raw/a1e38daf39046981edf5108430c4aaf5096b058d/share.png"/>
+![Enova Energia Solar](/images/Enova%20Energia.png)
